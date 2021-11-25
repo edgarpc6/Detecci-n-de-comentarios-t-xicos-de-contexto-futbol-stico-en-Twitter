@@ -1,1 +1,1 @@
-# Detecci-n-de-comentarios-t-xicos-de-contexto-futbol-stico-en-Twitter
+# Detección de comentarios tóxicos de contexto futbolístico en Twitter
